@@ -11,9 +11,9 @@
 
   nixpkgs.overlays = [ inputs.polymc.overlay ];
 
-  networking.hostName = "nixos"; # Define your hostname.
+  networking.hostName = "gUn"; # Define your hostname.
 
-  time.timeZone = "Asia/Tashkent"; # Set your time zone.
+  time.timeZone = "Asia/Bangkok"; # Set your time zone.
 
   i18n.defaultLocale = "en_US.UTF-8"; # Select internationalisation properties.
 
